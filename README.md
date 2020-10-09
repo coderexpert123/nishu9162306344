@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Intern  at Pago Analytics, I love building amazing software which make an impact,I am Content writer at Elite Productions, share open source projects.
+Intern  at Pago Analytics, I love building amazing software which make an impact,I am Content writer at Elite Productions, Love to working open source projects.
 - 🔭 I’m currently working on ...Pago Analytics 
 - 🌱 I’m currently learning ...Machine Lerning
 - 💬 Ask me about ...Coding
