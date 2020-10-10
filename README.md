@@ -4,6 +4,6 @@ Intern  at Spark Foundation, I love building amazing software which make an impa
 - 🔭 I’m currently working on : Pago Analytics 
 - 🌱 I’m currently learning: Machine Lerning
 - 💬 Ask me about :Coding
-- 📫 How to reach me: @Nishant90873744
+- 📫 How to reach me: 7050875890
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building Android app and website's 
