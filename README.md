@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Intern  at Spark Foundation, I love building amazing software which make an impact,I am Content writer at Elite Productions, Love to working open source projects.
-- 🔭 I’m currently working on : Aptron Solution pvt ltd
+- 🔭 Former Software Devloper : Decoder Lab 
 - 👋 Founder Of : backyearquestion.com
 - 🌱 I’m currently learning: Machine Lerning
 - 💬 Ask me about :Coding
