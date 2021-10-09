@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Working with Content team at GFG , Intern  at Spark Foundation, I love building amazing software which make an impact,I am Content writer at Elite Productions, Love to working open source projects.
-- 👨‍💻 Content Engineer : GeeksForGeeks 
+- 👨‍💻 Technical Content Engineer : GeeksForGeeks 
 - ⚡ Former SDE : Prowizard India
 - 🔭 Former Software Devloper : Decoder Lab 
 - 👋 Founder Of : backyearquestion.com
