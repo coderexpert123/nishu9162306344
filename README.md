@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Working with Content team at GFG , Intern  at Spark Foundation, I love building amazing software which make an impact,I am Content writer at Elite Productions, Love to working open source projects.
+I'm a Software Engineer who is obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
+- 💻 Engineer : Stellantis
 - 👨‍💻 Technical Content Engineer : GeeksForGeeks 
 - ⚡ Former SDE : Prowizard India
 - 🔭 Former Software Devloper : Decoder Lab 
-- 👋 Founder Of : backyearquestion.com
-- 🌱 I’m currently learning: Machine Lerning
+- 🌱 I’m currently learning: Blockchain
 - 💬 Ask me about :Coding
 - 📫 How to reach me: 7050875890
 - 😄 Pronouns: he/him
