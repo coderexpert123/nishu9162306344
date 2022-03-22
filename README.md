@@ -4,7 +4,6 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 - 💻 Engineer : Stellantis
 - 👨‍💻 Technical Content Engineer : GeeksForGeeks 
 - ⚡ Former SDE : Prowizard India
-- 🔭 Former Software Devloper : Decoder Lab 
 - 🌱 I’m currently learning: Blockchain
 - 💬 Ask me about :Coding
 - 📫 How to reach me: 7050875890
