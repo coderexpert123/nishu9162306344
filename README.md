@@ -2,6 +2,9 @@
 ### Hi there 👋 
 
 I'm a Software Engineer who is obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical)
+
 - 💻 Engineer : Stellantis
 - 👨‍💻 EX Technical Content Engineer : GeeksForGeeks 
 - ⚡ Former SDE : Prowizard India
@@ -12,7 +15,7 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 - ⚡ Fun fact: Building Android app and website's 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishu9162306344&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
