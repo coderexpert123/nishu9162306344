@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishu9162306344&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there 👋 
 
@@ -18,7 +19,6 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishu9162306344&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
