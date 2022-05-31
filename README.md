@@ -14,3 +14,6 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishu9162306344&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<img src="https://github-readme-stats.vercel.app/api?nishu9162306344=yourusername&count_private=true&theme=radical&show_icons=true" />
