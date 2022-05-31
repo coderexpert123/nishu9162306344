@@ -11,3 +11,4 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 - 📫 How to reach me: 7050875890
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building Android app and website's 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<nishu9162306344>&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
