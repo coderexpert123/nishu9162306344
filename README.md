@@ -13,7 +13,7 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building Android app and website's 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical) 
+![Nishan GitHub stats](https://github-readme-stats.vercel.app/api?username=nishu9162306344&show_icons=true&theme=radical) 
 
 
 
