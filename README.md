@@ -9,7 +9,6 @@ I'm a Software Engineer who is obsessed with the idea of using software to solve
 - ⚡ Former SDE : Prowizard India
 - 🌱 I’m currently learning: Blockchain
 - 💬 Ask me about :Coding
-- 📫 How to reach me: 7050875890
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Building Android app and website's 
 
